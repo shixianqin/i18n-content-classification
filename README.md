@@ -41,7 +41,11 @@ export default {
 
   // 文章
   article: {
-    aQ: '《阿Q正传》的文章内容',
+    aQ: {
+      title: '《阿Q正传》',
+      auther: '鲁迅',
+      content: '文章内容...'
+    },
     someArticle: '...'
   },
 
