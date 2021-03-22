@@ -4,16 +4,16 @@
 
 ## 🔥 字段命名推荐
 
-#### 字，词（word）
+#### 字，词（words）
 + 命名可按照字词的`字面意思`的英文翻译（不推荐使用拼音）
 
-#### 句（sentence）
+#### 句（sentences）
 + 命名可按照句子的`表达意思或者用途`的英文翻译
 
-#### 段（paragraph）
+#### 段（paragraphs）
 + 命名可按照段落的`表达意思或者用途`的英文翻译
 
-#### 篇，章（article）
+#### 篇，章（articles）
 + 命名可按照`文章标题`的英文翻译
 
 
@@ -22,25 +22,25 @@
 // i18n/index.js
 export default {
   // 字，词
-  word: {
+  words: {
     nice: '美好',
     someWord: '...'
   },
  
   // 句子
-  sentence: {
+  sentences: {
     edisonSays: '天才是百分之一的勤奋加百分之九十九的汗水。',
     someSentence: '...'
   },
 
   // 段落
-  paragraph: {
+  paragraphs: {
     smile: '带上你的微笑吧，尽管人生会有这样或那样的不如意，生活也会有风霜雪雨，但没有什么是过不去的，时间总会带来惊喜，你要知道，爱笑的人，命运一般都不会太差。',
     someParagraph: '...'
   },
 
   // 文章
-  article: {
+  articles: {
     aQ: {
       title: '《阿Q正传》',
       auther: '鲁迅',
